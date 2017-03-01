@@ -1,0 +1,24 @@
+/***************** CURRENT VERSION: 2.3 *****************/
+
+
+Version 2.3 (07 May 2016):
+- Fixed minor bugs
+
+
+Version 2.2 (22 May 2015):
+- Fixed Check Out bugs
+
+
+Version 2.1 (19 April 2015):
+ - Fixed compatibility issue that needed server to have MySQL Native Driver
+ - Fixed search-related bugs
+ - Fixed minor bugs
+
+
+Version 2.0 (15 April 2015):
+ - System updated to MySQLi extension
+ - New documentation layout
+
+
+Version 1.0 (19 January 2015):
+ - No changes

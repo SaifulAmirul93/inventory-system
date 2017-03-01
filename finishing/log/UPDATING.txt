@@ -1,0 +1,1 @@
+If you are updating from version 2.2 to version 2.3, you just have to replace the check-out.php file.
